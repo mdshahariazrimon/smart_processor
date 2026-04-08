@@ -1,5 +1,5 @@
 name: smart_processor
-description: "A new Flutter package project."
+description: "Processes JSON to return logic results or UI widgets."
 version: 0.0.1
 
 environment:
